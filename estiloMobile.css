@@ -1,0 +1,29 @@
+#contenedor{
+    width: 800px;
+}
+nav{
+    background-color: rgb(240, 159, 53);
+    width: 800px
+}
+ul{
+    margin: 0px;
+}
+li{
+    padding: 7px;
+}
+a{
+    color: black;
+}
+section{
+    border: solid 1px;
+    margin: 0px;
+    width: 800px;
+}
+h2, p{
+    padding: 7px 25px 7px 25px;
+}
+aside {
+	background: #CCC59E;
+	width: 800px;
+    float: left;
+}
